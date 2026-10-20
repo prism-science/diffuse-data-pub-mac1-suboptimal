@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1365244475.svg)](https://doi.org/10.5281/zenodo.23487927)
+
 # Raw X-ray diffraction data for suboptimal apo Mac1 datasets (`mac1-suboptimal`)
 
 This repository contains raw diffraction images from apo Mac1 (SARS-CoV-2 nsp3 macrodomain) crystals that gave lower-quality data, owing to humidity control, radiation dose, or crystal size. They are analyzed in the article below to identify the experimental factors that matter for high-quality diffuse scattering data:
